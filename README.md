@@ -11,7 +11,6 @@ A real-time computer vision system that detects drowsiness using eye state monit
 - [Features](#features-)
 - [Installation](#installation-)
 - [Usage](#usage-)
-- [Demo](#demo-)
 - [Technical Details](#technical-details-)
 - [Troubleshooting](#troubleshooting-)
 - [License](#license-)
@@ -56,8 +55,6 @@ python drowsiness_detection.py
 - 🟡 Yellow box: Right eye
 - 🔴 Red border: Drowsiness alert
 
-## Demo 📹
-![Demo GIF](demo.gif) *(Replace with actual demo file)*
 
 ## Technical Details 🔧
 **Detection Pipeline:**
